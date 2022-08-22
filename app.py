@@ -70,5 +70,6 @@ def logout():
 
     return redirect("/")
 
-@app.route("/users/<username>")
-def show_info(username):
+# @app.route("/users/<username>")
+# def show_info(username):
+
